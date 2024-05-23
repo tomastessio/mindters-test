@@ -16,6 +16,7 @@
 2. Ejecutar el comando `python app.py`
 3. Las credenciales para ver la ruta protegida son: 123 y 123.
    Aclaración: si el navegador ya almacenó las credenciales, utilizar Modo Privado o Icógnito.
+4. Para ver la información del usuario anteriormente validado, visitar el siguiente endpoint: "http://127.0.0.1:5000/user_info?user_id=1"
 
 ## Tercer proyecto (Django)
 1. En la terminal, situarse en la carpeta "mydjangoapp"
